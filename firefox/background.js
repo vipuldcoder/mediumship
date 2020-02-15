@@ -42,6 +42,7 @@ browser.webRequest.onBeforeSendHeaders.addListener(
       '*://itnext.io/*',
       '*://entrepreneurshandbook.co/*',
       '*://arcdigital.media/*',
+      '*//news.freecodecamp.org'
     ]
   },
   [
